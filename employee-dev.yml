@@ -1,0 +1,8 @@
+server:
+  port: 7171
+
+spring:
+  application:
+    name: EMPLOYEE-DEV
+
+  message: This it the Employee dev yml file no prod and no common application yml
