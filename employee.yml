@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: MAIN-APPLICATION
+
+  message: This is the main application yml wihout dev or prod extension
