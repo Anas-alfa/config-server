@@ -1,0 +1,8 @@
+server:
+  port:7173
+
+spring:
+  application:
+    name: EMPLOYEE-PROD
+
+  message: This employee prod application, this is no dev applicaiton not any main application yml
